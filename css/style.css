@@ -23,6 +23,11 @@ body {
 	color: inherit;
 }
 
+.nav-title a:hover {
+	text-decoration: underline;
+	text-decoration-thickness: 2px;
+}
+
 .nav-items {
 	display: flex;
 	list-style: none;
